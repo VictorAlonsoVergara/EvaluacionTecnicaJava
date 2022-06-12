@@ -7,7 +7,7 @@ En el archivo properties se encuentran los parámetros respectivos para conectar
 Adicionalmente, los 3 servicios solicitados se pueden probar de la siguiente manera: 
 
 - Mostrar todas las cervezas disponibles: http://localhost:8080/beers   
-- Búsqueda de cervezas por nombre: http://localhost:8080/beers/Whisky   
+- Búsqueda de cervezas por nombre: http://localhost:8080/beers/Whisky (por ejemplo)   
 - Recomendar una cerveza de forma aleatoria: http://localhost:8080/beers/random   
 
 No se hizo uso de scripts de bases de datos previos. Se agregó una imagen que muestra los datos del log almacenados en la base de datos después de llamar a los tres servicios.
