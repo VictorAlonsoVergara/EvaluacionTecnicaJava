@@ -6,9 +6,9 @@
 
 - Adicionalmente, los 3 servicios solicitados se pueden probar de la siguiente manera: 
 
-Mostrar todas las cervezas disponibles: http://localhost:8080/beers
-Búsqueda de cervezas por nombre: http://localhost:8080/beers/Whisky
-Recomendar una cerveza de forma aleatoria: http://localhost:8080/beers/random
+Mostrar todas las cervezas disponibles: http://localhost:8080/beers   
+Búsqueda de cervezas por nombre: http://localhost:8080/beers/Whisky   
+Recomendar una cerveza de forma aleatoria: http://localhost:8080/beers/random   
 
 - La estructura del proyecto brindado fue realizado mediante las capas: controller, dao, model y service. 
 
